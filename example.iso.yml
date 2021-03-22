@@ -1,0 +1,11 @@
+---
+- uuid: 9c2cf8f9-0d89-4fe2-8378-bfa858821794
+  identifiers:
+    - example.helloWorld
+    - greeting.helloWorld
+- uuid: 0f01c34c-2702-4641-8080-f2431d1f50f3
+  identifiers:
+    - example.foo
+- uuid: e92b93c4-6fc3-4ba4-b5e9-ba63b906d80c
+  identifiers:
+    - example.bar
