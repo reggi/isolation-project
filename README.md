@@ -7,11 +7,11 @@ Context:
 
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z5r9ue9olcsiyh8z08k1.png)
 
-This is a demo of an "isolation" project. 
+This is a demo of what an an "isolation" project. 
 
-All of the files / folders of this project are handled by a VSCode plugin called "Isolation".
+All of the files / folders of this project are handled by a proposed VSCode plugin called "Isolation".
 
-Install the plugin, and open up the `.isolation` file in the root of the project. 
+Install the plugin, and open up the `.iso.yml` file in the root of the project, and you would see the screenshot above.
 
 Hide the normal Explorer window, and voila. A brand new way to interact with JavaScript Code.
 
